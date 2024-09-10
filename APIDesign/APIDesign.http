@@ -1,0 +1,6 @@
+@APIDesign_HostAddress = http://localhost:7063
+
+GET https://localhost:7063/WeatherForecast/api/v1/weather
+
+
+###

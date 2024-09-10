@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}|DapperContext\\DapperContext.csproj|c:\\users\\epicm\\desktop\\apidesign\\apidesignprinciples\\dappercontext\\services\\videogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}|DapperContext\\DapperContext.csproj|solutionrelative:dappercontext\\services\\videogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}|DapperContext\\DapperContext.csproj|c:\\users\\epicm\\desktop\\apidesign\\apidesignprinciples\\dappercontext\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}|DapperContext\\DapperContext.csproj|solutionrelative:dappercontext\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}|DapperContext\\DapperContext.csproj|c:\\users\\epicm\\desktop\\apidesign\\apidesignprinciples\\dappercontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}|DapperContext\\DapperContext.csproj|solutionrelative:dappercontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 815,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\DapperContext\\Program.cs",
+              "RelativeDocumentMoniker": "DapperContext\\Program.cs",
+              "ToolTip": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\DapperContext\\Program.cs",
+              "RelativeToolTip": "DapperContext\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:45:46.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoGameService.cs",
+              "DocumentMoniker": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\DapperContext\\Services\\VideoGameService.cs",
+              "RelativeDocumentMoniker": "DapperContext\\Services\\VideoGameService.cs",
+              "ToolTip": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\DapperContext\\Services\\VideoGameService.cs",
+              "RelativeToolTip": "DapperContext\\Services\\VideoGameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:40:47.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\DapperContext\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "DapperContext\\Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\epicm\\Desktop\\APIDesign\\APIDesignPrinciples\\DapperContext\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "DapperContext\\Controllers\\VideoGameController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA4wBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:59:41.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

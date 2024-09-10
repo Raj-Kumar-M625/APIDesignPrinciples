@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIDesign", "APIDesign\APIDesign.csproj", "{5CAE72E4-1D35-4E28-AE0B-868C9BED22A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{AC429C28-4158-4537-A3F7-CC8246701456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClient", "ApiClient\ApiClient.csproj", "{564DFBC2-61AD-4CC9-9ADD-47D6FA34623C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperContext", "DapperContext\DapperContext.csproj", "{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CAE72E4-1D35-4E28-AE0B-868C9BED22A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE72E4-1D35-4E28-AE0B-868C9BED22A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE72E4-1D35-4E28-AE0B-868C9BED22A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE72E4-1D35-4E28-AE0B-868C9BED22A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC429C28-4158-4537-A3F7-CC8246701456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC429C28-4158-4537-A3F7-CC8246701456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC429C28-4158-4537-A3F7-CC8246701456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC429C28-4158-4537-A3F7-CC8246701456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564DFBC2-61AD-4CC9-9ADD-47D6FA34623C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564DFBC2-61AD-4CC9-9ADD-47D6FA34623C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564DFBC2-61AD-4CC9-9ADD-47D6FA34623C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564DFBC2-61AD-4CC9-9ADD-47D6FA34623C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE1ECDC-2DAA-47AF-9213-462AFCD79D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A6F81E2-02CA-4ABF-8F24-48838FE4FE17}
+	EndGlobalSection
+EndGlobal
